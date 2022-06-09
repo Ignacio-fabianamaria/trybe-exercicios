@@ -1,0 +1,5 @@
+git rm - Remove commits.
+git log - Exibe ou filtra commits.
+.gitignore - Arquivo oculto que pode ocultar arquivos e diretórios.
+git fetch - Verifica se há alterações no repositório remoto.
+git pull - Verifica se há atualizações no repositório remoto, caso positivo, mescla essas alterações ao repositório local.
