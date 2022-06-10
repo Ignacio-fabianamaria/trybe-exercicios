@@ -1,0 +1,12 @@
+.header {
+    color: azure;
+    background-color: brown;
+}
+.navi {
+    display:inline-block;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    margin: 30px ;
+}
