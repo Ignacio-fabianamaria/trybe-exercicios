@@ -6,5 +6,5 @@ let somaNumbers=0;
 for (let index = 0; index < numbers.length; index++) {
     somaNumbers+=numbers[index];
     console.log(somaNumbers);
-    
+     
 }
