@@ -50,9 +50,13 @@
         contentRed.style.background='white'
         var h1=content.getElementsByTagName('h1')
         h1.innerText='Exercício 5.1 - JavaScripit'
-        p1.innerHTML = p1.innerHTML.toUpperCase()
+        p1.innerHTML = p1.innerHTML.toUpperCase();
+        var p3 =document.getElementsByTagName('p')[2];
+        p3.innerHTML= p3.innerHTML.toUpperCase();
+
         function showParagraphs() {
       let paragraphs = document.getElementsByTagName('p');
+
       for (let index = 0; index < paragraphs.length; index += 1) {
         console.log(paragraphs[index].innerHTML);
       }
