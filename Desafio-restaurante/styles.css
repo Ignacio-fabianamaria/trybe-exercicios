@@ -44,8 +44,14 @@ width: 40%;
   }
 
   #topo{
-  background-image: url(img02.png);
-  
-  width: 100%;
+    display: flex;
+  background-color: wheat;
+  height: 460px;
+  justify-content: center ;
+  }
+  #topo img{
+    margin-top: 0px;
+    height: 480px;
+    align-items: center;
   }
   
